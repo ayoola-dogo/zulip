@@ -50,6 +50,8 @@ npm-debug.log
 /staticfiles.json
 /webpack-stats-production.json
 zulip-git-version
+static/generated/*.json
+static/generated/emoji-styles
 
 # Test / analysis tools
 .coverage
